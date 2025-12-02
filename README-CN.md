@@ -18,6 +18,12 @@ terraform-alicloud-hybrid-cloud-network-with-single-physical-connection
 ## 用法
 
 
+<div style="display: block;margin-bottom: 40px;"><div class="oics-button" style="float: right;position: absolute;margin-bottom: 10px;">
+  <a href="https://api.aliyun.com/terraform?source=Module&activeTab=document&sourcePath=alibabacloud-automation%3A%3Ahybrid-cloud-network-with-single-physical-connection&spm=docs.m.alibabacloud-automation.hybrid-cloud-network-with-single-physical-connection" target="_blank">
+    <img alt="Open in AliCloud" src="https://img.alicdn.com/imgextra/i1/O1CN01hjjqXv1uYUlY56FyX_!!6000000006049-55-tps-254-36.svg" style="max-height: 44px; max-width: 100%;">
+  </a>
+</div></div>
+
 ```hcl
 provider "alicloud" {
   region = "cn-hangzhou"
